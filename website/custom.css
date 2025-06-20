@@ -1,0 +1,59 @@
+#overview{
+    font-size: 37px; 
+}
+
+#intro2{
+    color: rgb(7, 1, 77);
+    font-size: 55px;    
+}
+
+body {
+    text-align: center;
+ 
+}
+
+body.grey-background {
+  background-color: rgb(205, 199, 199); /* Light gray color */
+}
+
+.one{
+    color:rgb(44, 5, 76);
+    font-size:  23px; 
+}   
+
+.extra{
+    font-size: 28px;
+    background-color: rgb(203, 179, 144)
+
+}
+
+.fav{
+    font-size:30px;
+    margin:7px;
+}
+
+.qwer{
+    color: rgb(226, 101, 172);
+    font-size: 50px;
+}
+
+.conjuring {
+    color: crimson;
+    font-family:cursive;
+    font-size: 50px;
+
+}
+
+h1 {
+    color: rgb(7, 1, 77);
+    font-size: 50px;
+}
+
+ul { 
+    padding-left: 0;
+}
+
+ul li {
+    display: flex;
+    justify-content: center;
+}
